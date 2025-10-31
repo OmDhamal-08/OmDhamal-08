@@ -41,6 +41,8 @@ class OmDhamal:
 me = OmDhamal()
 print(me.say_hi())
 
+ ```
+```
 🛠️ Tech Stack
 🤖 Machine Learning & AI
 <div align="center">
