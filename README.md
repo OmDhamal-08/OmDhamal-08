@@ -40,11 +40,14 @@ class OmDhamal:
         
 me = OmDhamal()
 print(me.say_hi())
-⚡ Fun Fact:
-I believe in the power of persistence and continuous learning. When I'm not coding, you'll find me exploring new technologies, brainstorming startup ideas, or contributing to innovative projects that make a difference!
 
-🚀 Let's build the future together!
+🤖 Machine Learning & AI
+<div align="center">
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white
+https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
+https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white
+https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
 
-https://komarev.com/ghpvc/?username=OmDhamal-08&color=blueviolet&style=flat-square
-
-</div> ```
+</div>
