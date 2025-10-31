@@ -43,7 +43,6 @@ print(me.say_hi())
 
 🛠️ Tech Stack
 🤖 Machine Learning & AI
-
 <div align="center">
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
@@ -126,5 +125,4 @@ I believe in the power of persistence and continuous learning. When I'm not codi
 https://komarev.com/ghpvc/?username=OmDhamal-08&color=blueviolet&style=flat-square
 
 </div>
-
 ```
