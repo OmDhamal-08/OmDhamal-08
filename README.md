@@ -20,7 +20,7 @@ I'm a passionate **Machine Learning Engineer** with great interest in **startups
 `React` `Django` `FastAPI` `Flask` `JavaScript` `HTML/CSS`
 
 **Backend & Databases:**
-`Python` `Node.js` `SQL` `MongoDB` `REST APIs`
+`Python` `SQL` `MongoDB` `REST APIs`
 
 **Tools & Platforms:**
 `Git` `Docker` `Jupyter Notebook` `VS Code` `Postman` `Google Colab`
