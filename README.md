@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Hi there, I'm Om Dhamal! 
+# 🚀 Hi there, I'm Om Dhamal!! 
 
 ### 🤖 Machine Learning Engineer | 💼 Startup Enthusiast | 🔧 Computer Engineer
 
