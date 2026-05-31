@@ -1,87 +1,75 @@
 <div align="center">
-
-# Hi, I'm Om Dhamal 👋
-
-### Machine Learning • Backend Development • AI Automation
-
-I build practical AI and backend systems using **Python, FastAPI, Django, Machine Learning, and automation tools**.  
-My focus is turning ideas into real working products — from healthcare prediction systems to AI content tools and workflow automation.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:0d1117&height=220&section=header&text=Om%20Dhamal&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Machine%20Learning%20%E2%80%A2%20Backend%20Development%20%E2%80%A2%20AI%20Automation&descAlignY=60&descSize=17&descColor=a78bfa" width="100%"/>
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Om%20Dhamal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-dhamal-411545295)
-[![GitHub](https://img.shields.io/badge/GitHub-OmDhamal--08-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmDhamal-08)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omdhamal77@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Om%20Dhamal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-dhamal-411545295)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-OmDhamal--08-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/OmDhamal-08)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-omdhamal77%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omdhamal77@gmail.com)
+&nbsp;
+![Visitors](https://komarev.com/ghpvc/?username=OmDhamal-08&style=flat-square&color=7c3aed&label=visitors)
 
 </div>
 
+<br/>
+
 ---
 
-## 🚀 About Me
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmDhamal-08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd" width="38%"/>
 
-I am a **Computer Engineering student** passionate about building software that solves real problems.  
-I enjoy working at the intersection of **AI, backend engineering, automation, and product development**.
+### 👋 About Me
 
-Instead of only learning concepts, I like creating complete systems — APIs, dashboards, ML models, automation workflows, and deployable web applications.
+I'm a **Computer Engineering student** who builds AI and backend systems — not just learns about them.
 
-```python
-class OmDhamal:
-    def __init__(self):
-        self.role = "ML & Backend Developer"
-        self.skills = ["Python", "FastAPI", "Django", "Machine Learning", "Automation"]
-        self.focus = "Building real-world AI products"
-        self.mindset = "Learn fast, build consistently, improve every project"
+I work at the intersection of **ML, backend engineering, automation, and product development**, turning ideas into complete working systems: APIs, dashboards, ML models, and automation workflows.
 
-    def current_goal(self):
-        return "Become stronger in ML engineering, backend systems, and product-based development"
+```
+role    →  ML & Backend Developer
+skills  →  Python · FastAPI · Django · ML · n8n
+focus   →  Real-world AI products & automation
+mindset →  Learn fast. Build consistently. Ship.
+goal    →  ML Engineering + Backend + Product Building
 ```
 
+<br clear="right"/>
+
 ---
 
-## 🧠 What I Work On
+## 🧠 What I Build
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="25%" align="center" valign="top">
 
-### 🤖 Machine Learning
-- Prediction models
-- Healthcare ML systems
-- Scikit-learn workflows
-- XGBoost experiments
-- Model evaluation and preprocessing
+**🤖 Machine Learning**
+
+Prediction models · Healthcare ML · Scikit-learn · XGBoost · Model evaluation & preprocessing
 
 </td>
-<td width="50%">
+<td width="25%" align="center" valign="top">
 
-### ⚙️ Backend Development
-- FastAPI APIs
-- Django web apps
-- CRUD systems
-- Database-backed dashboards
-- API integration
+**⚙️ Backend Development**
+
+FastAPI APIs · Django apps · CRUD systems · Database dashboards · API integration
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="25%" align="center" valign="top">
 
-### 🔁 AI Automation
-- n8n workflows
-- Retell AI voice automation
-- Webhook-based systems
-- Appointment booking flows
-- API-based automation
+**🔁 AI Automation**
+
+n8n workflows · Retell AI · Webhook systems · Appointment flows · API automation
 
 </td>
-<td width="50%">
+<td width="25%" align="center" valign="top">
 
-### 💡 Product Thinking
-- Startup ideas
-- MVP planning
-- Healthcare tech concepts
-- AI tools for creators
-- Real client/freelance work
+**💡 Product Thinking**
+
+Startup MVPs · Healthcare tech · AI tools for creators · Freelance delivery
 
 </td>
 </tr>
@@ -93,31 +81,34 @@ class OmDhamal:
 
 <div align="center">
 
-### Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Languages**
 
-### Backend & Web
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-### AI / ML
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+**Backend & Web**
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=44B78B)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=67b7f7)
+
+**AI / ML**
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4dabcf)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=e70488)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![n8n](https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=EA4B71)
 
 </div>
 
@@ -125,56 +116,66 @@ class OmDhamal:
 
 ## 🌟 Featured Projects
 
-### 🫀 Heart Attack Risk Assessment System
-Machine Learning healthcare project that predicts heart disease risk using patient health inputs such as age, blood pressure, cholesterol, and other medical parameters.
+<table width="100%">
 
-**Tech:** Python, Scikit-learn, FastAPI, ML preprocessing, model evaluation
+<tr>
+<td width="50%" valign="top">
 
----
+### 🫀 Heart Attack Risk Assessment
+ML healthcare system predicting heart disease risk from patient inputs — age, BP, cholesterol & more.
+
+`Python` `Scikit-learn` `FastAPI` `ML preprocessing`
+
+</td>
+<td width="50%" valign="top">
 
 ### 🧬 GenoTree Health
-A privacy-first healthcare platform concept that combines family history, lifestyle data, and genetic risk insights to help users understand inherited health risks.
+Privacy-first platform combining family history, lifestyle data & genetic risk for preventive health insights.
 
-**Focus:** Preventive healthcare, explainable AI, family-tree based risk analysis, startup product thinking
+`Explainable AI` `Family-tree risk` `Healthcare` `Startup MVP`
 
----
+</td>
+</tr>
 
-### ✍️ LinkedIn AI Post Generator & Enhancer
-AI-based content tool idea that helps users generate or improve LinkedIn posts using structure, tone, keywords, and reference-based enhancement.
+<tr>
+<td width="50%" valign="top">
 
-**Tech:** RAG concept, GPT, FastAPI, vector search, AI content generation
+### ✍️ LinkedIn AI Post Generator
+AI tool that generates & enhances LinkedIn posts using tone, structure, keywords & reference-based RAG.
 
----
+`RAG` `GPT` `FastAPI` `Vector search` `Content AI`
+
+</td>
+<td width="50%" valign="top">
 
 ### 💼 Personal Portfolio Website
-A responsive Django portfolio website built to showcase projects, skills, achievements, and backend development experience professionally.
+Responsive Django portfolio showcasing projects, skills & backend experience.
 
-**Tech:** Django, Python, Bootstrap, SQLite, JavaScript
+`Django` `Python` `Bootstrap` `SQLite` `JavaScript`
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🦷 Dental Booking Automation
-AI automation workflow for dental appointment booking, rescheduling, cancellation, availability checking, and call handling.
+AI automation for appointment booking, rescheduling, cancellation & call handling.
 
-**Tech:** n8n, Retell AI, Webhooks, API automation
+`n8n` `Retell AI` `Webhooks` `API automation`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🌐 Freelance Website Work — Lagech.com
-Real freelance website experience involving client requirements, website structure, debugging, backend support, and practical delivery.
+### 🌐 Freelance — Lagech.com
+Real client website with debugging, backend support, deployment & end-to-end delivery.
 
-**Focus:** Client communication, deployment understanding, web development, real-world project handling
+`Django` `Client work` `Deployment` `Web development`
 
----
+</td>
+</tr>
 
-## 📌 Currently Improving
-
-- Data Structures & Algorithms in C++
-- Machine Learning model building and evaluation
-- FastAPI backend development
-- Django project deployment
-- AI automation workflows
-- Interview preparation for ML, backend, and cybersecurity roles
+</table>
 
 ---
 
@@ -182,28 +183,22 @@ Real freelance website experience involving client requirements, website structu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OmDhamal-08&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmDhamal-08&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-
-<br/>
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OmDhamal-08&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=OmDhamal-08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&include_all_commits=true&count_private=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OmDhamal-08&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=7c3aed" height="170"/>
 
 </div>
 
 ---
 
-## 🎯 My Direction
+## 📌 Currently Improving
 
-I am actively building my profile around:
+<div align="center">
 
-- **ML Engineering** — models, preprocessing, evaluation, deployment
-- **Backend Development** — APIs, databases, dashboards, real applications
-- **AI Automation** — workflows that connect AI with business processes
-- **Startup/Product Building** — converting ideas into MVPs
+`DSA in C++` &nbsp;|&nbsp; `ML model building & evaluation` &nbsp;|&nbsp; `FastAPI backend` &nbsp;|&nbsp; `Django deployment`
+`AI automation workflows` &nbsp;|&nbsp; `Interview prep — ML · Backend · Cybersecurity`
 
-My goal is to become a developer who can not only write code, but also understand the problem, design the system, and build something useful from scratch.
+</div>
 
 ---
 
@@ -211,17 +206,20 @@ My goal is to become a developer who can not only write code, but also understan
 
 <div align="center">
 
-I am open to **ML projects, backend development work, automation projects, internships, collaborations, and freelance opportunities**.
+Open to **ML projects · backend work · automation · internships · collaborations · freelance**
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-dhamal-411545295)
-[![GitHub](https://img.shields.io/badge/View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmDhamal-08)
-[![Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omdhamal77@gmail.com)
+&nbsp;
+[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omdhamal77@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/View%20Projects-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmDhamal-08)
+
+</div>
 
 <br/>
-<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=OmDhamal-08&style=flat-square&color=blue)
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:302b63,100:0f0c29&height=100&section=footer&text=Learn%20fast.%20Build%20consistently.%20Ship.&fontSize=15&fontColor=a78bfa&fontAlignY=65" width="100%"/>
 </div>
